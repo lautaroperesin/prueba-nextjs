@@ -23,6 +23,7 @@ export default function RootLayout({ children }) {
           <h2>Cabecera de la app: Prode futbol argentino</h2>
           <nav>
             <Link href="/">Inicio</Link>--
+            <Link href="/prediccion">Fecha 16</Link>--
             <Link href="/fixture">Fixture</Link>--
             <Link href="/ranking">Ranking</Link>--
             <Link href="/contacto">Contacto</Link>--
